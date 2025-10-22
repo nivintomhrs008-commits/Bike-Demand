@@ -22,8 +22,3 @@
 - Scikit-learn 1.1.0
 - Matplotlib 3.5.1
 - Seaborn 0.11.2
-
-## Acknowledgements
-- This project was inspired by the BoomBikes case study provided in the coursework.
-- Dataset originates from the public "Bike Sharing Demand" dataset used in multiple Kaggle competitions.
-- Guidance from online tutorials on multiple linear regression and data preprocessing.
